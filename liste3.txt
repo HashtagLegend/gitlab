@@ -1,3 +1,5 @@
-min nye indkøbsliste
+min nye indkøbsliste - nu er vi på f3 branch
 æbler
 bananer
+kiwi
+papaya
