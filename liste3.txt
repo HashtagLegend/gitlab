@@ -3,3 +3,5 @@ min nye indkøbsliste - nu er vi på f3 branch
 bananer
 kiwi
 papaya
+Pandamælk
+Mælkesnitter
